@@ -51,8 +51,7 @@
   </a>
 </div>
 
-### `Deploys`:
-### `website`:  https://client-97i3.netlify.app/
-### `shopbanhang`: https://client-97i2.netlify.app/
+
+### `CV`:  https://profile-luongluyen.netlify.app/
 
 
